@@ -1,0 +1,1 @@
+## A simple blog api using django and djangorest framework
